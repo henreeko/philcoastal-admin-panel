@@ -1,0 +1,1 @@
+<img src="{{ asset('images/coastal-logo.png') }}" alt="Coastal Logo">

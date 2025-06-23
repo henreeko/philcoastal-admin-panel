@@ -1,0 +1,1 @@
+<img src="{{ asset('images/coastal-logo.png') }}" alt="Coastal Logo" style="max-width: 60px; height: auto;">
